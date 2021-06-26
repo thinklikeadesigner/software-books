@@ -24,6 +24,15 @@
 *   The User Experience Team of One.pdf
 *   universal principles of design.pdf
   
+    ## Interview Prep  [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/interview%20prep)
+  
+  * Introduct to Alogrithm.pdf
+  * Grokking Algorithms_ An illustrated guide for programmers and other curious people_.pdf
+  * Data Structures and Algorithms Made Easy - Data Structure and Algorithmic Puzzles.pdf
+  * Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf
+  * algorithms notes for professionals.pdf
+  * Algorithm Design.pdf
+  
   ## Developer Enrichment [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/developer%20enrichment)
   *  the pragmattic programmer from journeyman to master.pdf
 * The effective engineer.pdf
@@ -32,14 +41,7 @@
 * Clean Code.pdf
 * clean architecture a craftsmans guid to software structure and design.pdf
   
-  ## Interview Prep  [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/interview%20prep)
-  
-    * Introduct to Alogrithm.pdf
-  * Grokking Algorithms_ An illustrated guide for programmers and other curious people_.pdf
-  * Data Structures and Algorithms Made Easy - Data Structure and Algorithmic Puzzles.pdf
-  * Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf
-  * algorithms notes for professionals.pdf
-  * Algorithm Design.pdf
+
   
   
   ## Martin Fowler  [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/Martin%20Fowler)
