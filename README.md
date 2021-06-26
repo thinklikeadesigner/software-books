@@ -53,7 +53,7 @@
 * AnalysisPatterns.pdf
   
   ## Misceallaneous  [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/Developer)
-  RefactoringToPatterns.pdf
+ *    RefactoringToPatterns.pdf
 *  xp case study.pdf
 * UNIX Network Programming(Volume1,3rd).pdf
 * structure and interpretation of computer programs.pdf
