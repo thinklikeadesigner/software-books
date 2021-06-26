@@ -2,7 +2,6 @@
 
 
 
-
 ## Designer  [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/Designer)
   * thinking fast and slow.pdf
 *   The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf
@@ -17,6 +16,13 @@
 *   Day 2 Sketching IxD.pdf
 *   Change by Design_ How Design Thinking Transforms Organizations and Inspires Innovation.pdf
 *   About Face.pdf
+*   100 Things Every Designer Needs To Know About People (2011).pdf
+*   Lean UX - Designing Great Products with Agile Teams (Second Edition) [EnglishOnlineClub.com].pdf
+*   /MARTINHANINGTON_Universal-Methods-of-Design.pdf
+*   The Art of Innovation_ Lessons in Creativity from IDEO, America.pdf
+*   The Non-designers Design Book.pdf
+*   The User Experience Team of One.pdf
+*   universal principles of design.pdf
   
   ## Developer Enrichment [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/developer%20enrichment)
   *  the pragmattic programmer from journeyman to master.pdf
@@ -45,6 +51,7 @@
 * AnalysisPatterns.pdf
   
   ## Misceallaneous  [Click here to explore](https://github.com/thinklikeadesigner/software-books/tree/master/Developer)
+  RefactoringToPatterns.pdf
 *  xp case study.pdf
 * UNIX Network Programming(Volume1,3rd).pdf
 * structure and interpretation of computer programs.pdf
@@ -93,6 +100,7 @@
 * database systems.pdf
 * Design patterns for container-based distributed systems.pdf
 * building reactive microservices in java.pdf
+* designpatterns.pdf
 * c plus plus primer.pdf
 * clean architectures in python.pdf
 * Architectural Styles and the Design of Network-based Software Architectures.pdf
